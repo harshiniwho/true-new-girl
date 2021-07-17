@@ -7,3 +7,5 @@ This is basically a dataset of my favourite lines from the show as I slowly rewa
 4. the predominant visible emotions
 5. the season
 6. anything else I feel like tagging myself
+
+Disclaimer: I do not own any of the images, they are simply off my habit of excessively screenshotting.
