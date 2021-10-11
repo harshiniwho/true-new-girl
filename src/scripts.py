@@ -3,7 +3,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-SCRIPT_LOCATION = "F:\\harshini\\projects\\true-new-girl\\scripts\\"
+SCRIPT_LOCATION = ""
 
 leftout_season_6_episodes = ["http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32801", "http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32802", "http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32803", "http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32806", "http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32807"]
 season_7_episodes = ["http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32808", "http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32809", "http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32810", "http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32811", "http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32812", "http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32813", "http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32814", "http://transcripts.foreverdreaming.org/viewtopic.php?f=50&t=32511"]

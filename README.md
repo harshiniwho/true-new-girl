@@ -9,3 +9,8 @@ This is basically a dataset of my favourite lines from the show as I slowly rewa
 6. anything else I feel like tagging myself
 
 Disclaimer: I do not own any of the images, they are simply off my habit of excessively screenshotting.
+
+
+Character image notes:
+1. cropped tran
+2. replaced the images for Jamie Lee Curtis, young Joey King and Nick Kroll
