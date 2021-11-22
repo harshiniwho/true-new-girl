@@ -6,8 +6,8 @@ import sys
 
 SCRIPTS_LOCATION = ""
 IMAGES_LOCATION = ""
-INSERT_NEW_LINE_URL = ""
-INSERT_NEW_IMAGE_URL = ""
+INSERT_NEW_LINE_URL = "http://localhost:3900/api/subtitles"
+INSERT_NEW_IMAGE_URL = "http://localhost:3900/api/images"
 
 def load_scripts(filename):
     season = filename[:2]
